@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4FD8B913-4578-A158-218D-D6F97F6BB437}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ShootingController.cs" Line="4" Column="22" />
+      <File FileName="Assets/Scripts/Manager.cs" Line="84" Column="10" />
+      <File FileName="Assets/Scripts/CubeCollisionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CollisionController.cs" />
+      <File FileName="Assets/Scripts/CubeSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RowTrack.cs" />
+      <File FileName="Assets/Scripts/Play.cs" Line="61" Column="11" />
+      <File FileName="Assets/Scripts/ClickChecker.cs" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="152" Column="19" />
+      <File FileName="Assets/Scripts/DisableAfterTime.cs" />
+      <File FileName="Assets/Scripts/Settings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hexmesh" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ScoreManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="210bc99f-71fe-45d1-82a8-fa4d574257bb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
